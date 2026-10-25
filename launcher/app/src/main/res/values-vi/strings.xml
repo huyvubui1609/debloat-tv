@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Clean TV</string>
+    <string name="greeting_morning">Chào buổi sáng</string>
+    <string name="greeting_day">Chào buổi chiều</string>
+    <string name="greeting_evening">Chào buổi tối</string>
+    <string name="greeting_night">Chào buổi tối</string>
+    <string name="inputs">Đầu vào</string>
+    <string name="wifi">Wi‑Fi</string>
+    <string name="settings">Cài đặt</string>
+    <string name="live_tv">Truyền hình trực tiếp</string>
+    <string name="wifi_unavailable">Wi‑Fi không khả dụng</string>
+    <string name="no_inputs">Không tìm thấy đầu vào TV</string>
+    <string name="input_error">Không thể mở đầu vào này</string>
+    <string name="mini_all_settings">Tất cả cài đặt</string>
+    <string name="mini_screensaver">Trình bảo vệ màn hình</string>
+    <string name="mini_input_source">Nguồn đầu vào</string>
+    <string name="mini_picture">Hình ảnh</string>
+    <string name="mini_accessibility">Trợ năng</string>
+    <string name="mini_close_apps">Đóng ứng dụng</string>
+    <string name="mini_original_launcher">Trình khởi chạy gốc</string>
+    <string name="mini_cancel">Hủy</string>
+    <string name="original_launcher_title">Chuyển về trình khởi chạy gốc?</string>
+    <string name="original_launcher_message">Clean TV sẽ đóng và màn hình chính sẽ chuyển về trình khởi chạy có sẵn của TV. Bạn có thể chọn lại Clean TV trong phần cài đặt ứng dụng màn hình chính.</string>
+    <string name="original_launcher_switch">Chuyển trình khởi chạy</string>
+    <string name="mini_opening_screensaver">Đang mở trình bảo vệ màn hình…</string>
+    <string name="mini_screensaver_unavailable">Không thể khởi chạy trình bảo vệ màn hình</string>
+</resources>

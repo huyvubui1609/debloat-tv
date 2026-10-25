@@ -1,35 +1,42 @@
-# Gradle files
+# macOS and IDE state
+.DS_Store
+.idea/
+**/.idea/
+*.iml
+
+# Gradle and Android build output
 .gradle/
+**/.gradle/
 build/
+**/build/
 .kotlin/
-
-# Local configuration file (sdk path, etc)
 local.properties
-
-# Log/OS Files
-*.log
-
-# Android Studio generated files and folders
-captures/
+**/local.properties
 .externalNativeBuild/
 .cxx/
-*.aab
+captures/
 *.apk
+*.aab
 output-metadata.json
+*.hprof
 
-# IntelliJ
-*.iml
-.idea/
-misc.xml
-deploymentTargetDropDown.xml
-render.experimental.xml
-
-# Keystore files
+# Local signing material and credentials
 *.jks
 *.keystore
-
-# Google Services (e.g. APIs or Firebase)
+*.p12
+*.pem
+*.key
 google-services.json
+.env
+.env.*
 
-# Android Profiling
-*.hprof
+# Device-specific backups and captures
+/backup/
+/shots/
+/probe/
+/restore.sh
+/README.device-private.md
+/launcher/app/src/main/res/drawable-nodpi/home_wallpaper.jpg
+
+# Logs
+*.log

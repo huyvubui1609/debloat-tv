@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Clean TV</string>
+    <string name="greeting_morning">Good morning</string>
+    <string name="greeting_day">Good afternoon</string>
+    <string name="greeting_evening">Good evening</string>
+    <string name="greeting_night">Good evening</string>
+    <string name="inputs">Inputs</string>
+    <string name="wifi">Wi‑Fi</string>
+    <string name="settings">Settings</string>
+    <string name="live_tv">Live TV</string>
+    <string name="wifi_unavailable">Wi‑Fi unavailable</string>
+    <string name="no_inputs">No TV inputs found</string>
+    <string name="input_error">This input could not be opened</string>
+    <string name="remote_settings_accessibility_description">Listens only for the TV remote Settings key and opens the Clean TV mini settings panel. It does not read screen content.</string>
+    <string name="mini_all_settings">All settings</string>
+    <string name="mini_screensaver">Screensaver</string>
+    <string name="mini_input_source">Input source</string>
+    <string name="mini_picture">Picture</string>
+    <string name="mini_accessibility">Accessibility</string>
+    <string name="mini_close_apps">Close apps</string>
+    <string name="mini_original_launcher">Original launcher</string>
+    <string name="mini_cancel">Cancel</string>
+    <string name="original_launcher_title">Switch to the original launcher?</string>
+    <string name="original_launcher_message">This will leave Clean TV and return Home to the TV’s built-in launcher. You can choose Clean TV again later in Home app settings.</string>
+    <string name="original_launcher_switch">Switch launcher</string>
+    <string name="mini_opening_screensaver">Opening screensaver…</string>
+    <string name="mini_screensaver_unavailable">Could not start the screensaver</string>
+</resources>

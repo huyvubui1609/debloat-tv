@@ -1,0 +1,10 @@
+<resources>
+    <integer name="columns">4</integer>
+    <string-array name="dock_apps">
+        <item>com.google.android.youtube.tv</item>
+        <item>com.oxootv.spagreen</item>
+        <item>com.xiaomi.mitv.smartshare</item>
+        <item>com.netflix.ninja</item>
+        <item>com.esaba.downloader</item>
+    </string-array>
+</resources>
